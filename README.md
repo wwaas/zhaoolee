@@ -4,19 +4,7 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-06-29 11:16:01 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
-
-[通过async程序配合私钥认证，机械硬盘加树莓派，对个人服务器进行低成本容灾](https://v2fy.com/p/2021-06-28-ssh-1624891495000/)
-
-[终端alias语法快捷配置魔法上网](https://v2fy.com/p/2021-06-28-setp-unsetp-1624854751000/)
-
-[零依赖!使用acme.sh设置nginx多个https证书自动更新，无限续期https证书](https://v2fy.com/p/2021-06-27-nginx-https-1624774964000/)
-
-[知识的诅咒](https://fangyuanxiaozhan.com/p/2021-06-22-18-14-12-know/)
-
-[自建BBS站有什么好处?](https://fangyuanxiaozhan.com/p/2021-06-22-18-08-34-bbs/)
-
-[如何开始写博客并长期坚持下去](https://fangyuanxiaozhan.com/p/2021-06-11-10-24-39-blog/)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-06-29 11:48:20 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 ---end---
 
